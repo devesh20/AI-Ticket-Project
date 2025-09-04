@@ -1,4 +1,4 @@
-Full-Stack AI Agent Project
+Full-Stack AI Agent Project 
 A full-stack app that automates ticket triage and user workflows using an AI assistant, with a Node.js/Express backend and a React (Vite) frontend.
 
 Features
